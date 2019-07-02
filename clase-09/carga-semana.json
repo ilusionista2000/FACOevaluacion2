@@ -1,0 +1,88 @@
+link: https://api.myjson.com/bins/bn5r7
+[
+  {
+    "nombre": "Taller de Diseño Gráfico V",
+    "codigo": "DGP501",
+    "creditaje": 9,
+    "directas": 6,
+    "dedicacion": [
+                    0,
+                    3,
+                    0,
+                    6
+                  ]
+
+  },
+  {
+    "nombre": "Seminario Gráfica Computacional I",
+    "codigo": "DGP502",
+    "creditaje": 3,
+    "directas": 3,
+    "dedicacion": [
+                    3,
+                    3,
+                    6,
+                    3
+                  ]
+  },
+  {
+    "nombre": "Seminario Producción Audiovisual I",
+    "codigo": "DGP503",
+    "creditaje": 3,
+    "directas": 3,
+    "dedicacion": [
+                    3,
+                    3,
+                    6,
+                    5
+                  ]
+  },
+  {
+    "nombre": "Seminario de Diseño Gráfico II",
+    "codigo": "DGP504",
+    "creditaje": 5,
+    "directas": 3,
+    "dedicacion": [
+                    0,
+                    0,
+                    0,
+                    10
+                  ]
+  },
+  {
+    "nombre": "Publicidad",
+    "codigo": "DGP505",
+    "creditaje": 3,
+    "directas": 3,
+    "dedicacion": [
+                    3,
+                    8,
+                    3,
+                    6
+                  ]
+  },
+  {
+    "nombre": "Seminario de Gestión I",
+    "codigo": "DGP506",
+    "creditaje": 3,
+    "directas": 3,
+    "dedicacion": [
+                    4,
+                    5,
+                    3,
+                    6
+                  ]
+  },
+  {
+    "nombre": "Pre-Práctica",
+    "codigo": "DGP507",
+    "creditaje": 3,
+    "directas": 3,
+    "dedicacion": [
+                    6,
+                    6,
+                    6,
+                    6
+                  ]
+  }
+]
